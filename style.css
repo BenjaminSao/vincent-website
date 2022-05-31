@@ -1,0 +1,72 @@
+body
+{
+    background-color: #090A11;
+    min-height: 100vh;
+    color: white;
+}
+
+.navbar-item
+{
+    color: white !important;
+}
+
+.custom-navbar
+{
+    padding: 1rem 4rem;
+}
+
+.navbar-middle-buttons
+{
+    position: absolute;
+    left: 40%;
+    bottom: 2.25rem;
+}
+
+.custom-log-in-button
+{
+    background: none;
+    border: none;
+    color: white;
+}
+
+.custom-sign-up-button
+{
+    background: none;
+    border: white 1px solid;
+    border-radius: 0%;
+
+    padding: 1.25rem 2.5rem;
+
+    color: white;
+}
+
+.custom-get-started-button
+{
+    border: none;
+
+    background-color: #edff7e;
+    padding: 1.5rem 2.5rem;
+}
+
+.custom-try-for-free-button
+{
+    background: none;
+    border: none;
+    border-bottom: white 1px solid;
+    border-radius: 0%;
+
+    padding: 1.5rem 2.5rem;
+
+    color: white;
+}
+
+h1
+{
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+p
+{
+    line-height: 1.825rem;
+}
